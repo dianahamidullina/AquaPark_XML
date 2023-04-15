@@ -1,5 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<mainroot>	
+<mainroot>
+	<emp>	
+	<employers>
+		
+	    <name>
+		Диана
+	    </name>
+		<fullname>	
+		Хамидуллина
+		</fullname>
+		<status>	
+	    Директор
+		</status>
+		
+	</employers>
+		<employers>
+			<name>
+				Борис
+			</name>
+			<fullname>
+				Борискин
+			</fullname>
+			<status>
+				Охраник
+			</status>
+		</employers>
+		<employers>
+			<name>
+				Капа
+			</name>
+			<fullname>
+				Пчелкина
+			</fullname>
+			<status>
+				Инструктор
+			</status>
+		</employers>
+	</emp>
+	
+	<menu>
+		<bar>
+			<name>Пиво</name>
+			<price>	100</price>
+		</bar>
+		<bar>
+			<name>Махито</name>
+			<price>	200</price>
+		</bar>
+		<cafe>
+			<name> Чиписик</name>
+			<price>	160</price>
+		</cafe>
+		<cafe>
+			<name>Тортик</name>
+			<price>	200</price>
+		</cafe>
+	</menu>
 	
 </mainroot>
 

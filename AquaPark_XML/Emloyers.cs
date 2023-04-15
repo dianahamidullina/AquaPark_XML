@@ -10,8 +10,6 @@ namespace AquaPark_XML
 {
    internal class Employers
     { 
-        public int id
-        { get; set; }
         public string name
         { get; set; }
         public string status
