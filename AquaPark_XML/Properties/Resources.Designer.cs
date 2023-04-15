@@ -63,6 +63,26 @@ namespace AquaPark_XML.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap i_97_13 {
+            get {
+                object obj = ResourceManager.GetObject("i-97-13", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_аквапарк_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-аквапарк-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_дерево_35 {
             get {
                 object obj = ResourceManager.GetObject("icons8-дерево-35", resourceCulture);
